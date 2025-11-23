@@ -1,0 +1,18 @@
+{
+    "system":{
+        "gravatar_mirror": "https://gravatar.com/",
+        "gravatar_default_type": "mp"
+    },
+    "site": {
+        "url": "https://ne.ueg.ee/",
+        "title": "NeHex Blog",
+        "sub_title": "a NeHex Blog Web Site",
+        "site_describe": "NeHex is a Blog Engine.",
+        "site_keyword": ["Nehex","blog","python"],
+        "favicon": "https://cdn.uegee.com/favicon.ico",
+        "logo": "https://cdn.uegee.com/head.jpg",
+        "logo-32": "https://cdn.uegee.com/head.jpg?size=32",
+        "logo-64": "https://cdn.uegee.com/head.jpg?size=64",
+        "logo-128": "https://cdn.uegee.com/head.jpg?size=128"
+    }
+}
